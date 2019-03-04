@@ -1,0 +1,4 @@
+boot:
+  properties:
+    name: ddd
+    value: 2

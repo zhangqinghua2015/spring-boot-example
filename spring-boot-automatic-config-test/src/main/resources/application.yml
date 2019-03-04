@@ -1,0 +1,5 @@
+automatic:
+  config:
+    enable: false
+    number: 11
+    version: s
